@@ -23,7 +23,7 @@ def resize_image(input_image_path, output_image_path, size):
 
     new_image.save(output_image_path)
 
-# 您可以將以下程式碼替換為您的圖片路徑
+# 圖片路徑
 input_dir = 'C:/Python/OIDv4_ToolKit/OID/Dataset/validation/Pumpkin'
 output_dir = 'C:/Python/OIDv4_ToolKit/OID/DatasetAdjusted/validation/Pumpkin'
 
